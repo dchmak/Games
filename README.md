@@ -1,2 +1,2 @@
-# Games
-a random game
+# Game
+A random game
