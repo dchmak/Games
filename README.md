@@ -1,2 +1,2 @@
 # Games
-A list of games
+a random game
